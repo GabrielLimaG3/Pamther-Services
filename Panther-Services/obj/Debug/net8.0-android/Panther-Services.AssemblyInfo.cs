@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Panther-Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ca138be066e156f7f61ebb0d24639aa442c136b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+91ad9776b671e2ecb434c276797c3a8654c987a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Panther-Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Panther-Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
