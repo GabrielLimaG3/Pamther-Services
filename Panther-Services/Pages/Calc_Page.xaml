@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Panther_Services.Pages.Calc_Page"
+             Title="Calc_Page">
+    <VerticalStackLayout
+        VerticalOptions="Center"
+        Margin="50, 0">
+        <Label HorizontalOptions="Center" FontSize="Body" Text="Calculadora de valor "/>
+        <Entry Keyboard="Numeric" x:Name="Entry_valor_horas" Placeholder="Tempo em Horas"/>
+        <Button Clicked="Button_Clicked" Text="Calcular"/>
+        <Label x:Name="lb_res" Padding="25, 0, 0, 0" HorizontalOptions="Center" FontSize="Body" Text="Valor R$"/>
+    </VerticalStackLayout>
+</ContentPage>

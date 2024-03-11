@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Panther_Services.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+            VerticalOptions="Center">
+
+            <Button Clicked="Button_Clicked" Text="Front-End"/>
+            <Button Clicked="Button_Clicked_1" Text="Back-End"/>
+            <Button Clicked="Button_Clicked_2" Text="Marketing"/>
+            <Button Clicked="Button_Clicked_3" Text="Mobile"/>
+            <Button Clicked="Button_Clicked_4" Text="Aplicações Simples"/>
+         
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\back-end_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\back-end_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\back-end_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\back-end_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\calc_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\calc_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\front-end_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\front-end_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\front-end_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\front-end_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\calc_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\calc_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\marketing_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\marketing_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\marketing_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\marketing_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\mobile_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\mobile_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|c:\\users\\gabriel\\source\\repos\\panther-services\\panther-services\\pages\\aplica\u00E7\u00F5es-simples_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE5755C6-7FBA-46B0-8B0C-86E52A4C3CBE}|Panther-Services\\Panther-Services.csproj|solutionrelative:panther-services\\pages\\aplica\u00E7\u00F5es-simples_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Back-End_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Back-End_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Back-End_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Back-End_Page.xaml.cs",
+              "RelativeToolTip": "Panther-Services\\Pages\\Back-End_Page.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T17:05:28.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calc_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Calc_Page.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Calc_Page.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Calc_Page.xaml",
+              "RelativeToolTip": "Panther-Services\\Pages\\Calc_Page.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T16:13:28.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Front-End_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Front-End_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Front-End_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Front-End_Page.xaml.cs",
+              "RelativeToolTip": "Panther-Services\\Pages\\Front-End_Page.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:12:10.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Front-End_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Front-End_Page.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Front-End_Page.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Front-End_Page.xaml",
+              "RelativeToolTip": "Panther-Services\\Pages\\Front-End_Page.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T13:53:00.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Back-End_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Back-End_Page.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Back-End_Page.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Back-End_Page.xaml",
+              "RelativeToolTip": "Panther-Services\\Pages\\Back-End_Page.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T14:03:50.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calc_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Calc_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Calc_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Calc_Page.xaml.cs",
+              "RelativeToolTip": "Panther-Services\\Pages\\Calc_Page.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:28:23.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Marketing_Page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Marketing_Page.xaml.cs",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Marketing_Page.xaml.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Marketing_Page.xaml.cs",
+              "RelativeToolTip": "Panther-Services\\Pages\\Marketing_Page.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:33:37.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Marketing_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Marketing_Page.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Marketing_Page.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Marketing_Page.xaml",
+              "RelativeToolTip": "Panther-Services\\Pages\\Marketing_Page.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T14:04:19.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\AppShell.xaml",
+              "RelativeToolTip": "Panther-Services\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T13:47:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\App.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\App.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\App.xaml",
+              "RelativeToolTip": "Panther-Services\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T14:35:20.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\MainPage.xaml",
+              "RelativeToolTip": "Panther-Services\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-10T23:27:28.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Mobile_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Mobile_Page.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Mobile_Page.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Mobile_Page.xaml",
+              "RelativeToolTip": "Panther-Services\\Pages\\Mobile_Page.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T14:04:51.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Aplica\u00E7\u00F5es-Simples_Page.xaml",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Aplica\u00E7\u00F5es-Simples_Page.xaml",
+              "RelativeDocumentMoniker": "Panther-Services\\Pages\\Aplica\u00E7\u00F5es-Simples_Page.xaml",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\Panther-Services\\Panther-Services\\Pages\\Aplica\u00E7\u00F5es-Simples_Page.xaml",
+              "RelativeToolTip": "Panther-Services\\Pages\\Aplica\u00E7\u00F5es-Simples_Page.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T14:45:16.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

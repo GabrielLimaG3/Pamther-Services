@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Panther_Services.Pages.Back_End_Page"
+             Title="Back End">
+    <VerticalStackLayout            
+        Padding="30,0"
+        Spacing="25"
+        VerticalOptions="Center">
+
+        <Button Clicked="Button_Clicked" Text="API Rest"/>
+        <Button Text="Banco de Dados"/>
+        <Button Text="Manutenção"/>
+
+    </VerticalStackLayout>
+</ContentPage>
