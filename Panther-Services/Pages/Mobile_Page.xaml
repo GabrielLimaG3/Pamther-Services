@@ -8,11 +8,11 @@
         Spacing="25"
         VerticalOptions="Center">
 
-        <Button Text="Front"/>
-        <Button Text="Consumo de API REST"/>
-        <Button Text="APP Simples"/>
-        <Button Text="APP Com API"/>
-        <Button Text="APP Com Banco de Dados"/>
+        <Button Clicked="Button_Clicked" Text="Front"/>
+        <Button Clicked="Button_Clicked" Text="Consumo de API REST"/>
+        <Button Clicked="Button_Clicked" Text="APP Simples"/>
+        <Button Clicked="Button_Clicked" Text="APP Com API"/>
+        <Button Clicked="Button_Clicked" Text="APP Com Banco de Dados"/>
 
     </VerticalStackLayout>
 </ContentPage>

@@ -8,8 +8,8 @@
         Spacing="25"
         VerticalOptions="Center">
 
-        <Button Text="Boots"/>
-        <Button Text="Web Scraping"/>
+        <Button Clicked="Button_Clicked" Text="Boots"/>
+        <Button Clicked="Button_Clicked" Text="Web Scraping"/>
 
     </VerticalStackLayout>
 </ContentPage>

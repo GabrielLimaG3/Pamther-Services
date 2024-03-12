@@ -8,9 +8,9 @@
             Spacing="25"
             VerticalOptions="Center">
 
-        <Button Text="SEO"/>
-        <Button Text="Publicidade"/>
-        <Button Text="Consultoria"/>
+        <Button Clicked="Button_Clicked" Text="SEO"/>
+        <Button Clicked="Button_Clicked" Text="Publicidade"/>
+        <Button Clicked="Button_Clicked" Text="Consultoria"/>
 
     </VerticalStackLayout>
 </ContentPage>

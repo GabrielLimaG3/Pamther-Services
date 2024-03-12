@@ -9,11 +9,11 @@
         VerticalOptions="Center">
 
         <Button Clicked="Button_Clicked" Text="Desing"/>
-        <Button Text="Landin-Pages"/>
-        <Button Text="Site Empresarial"/>
-        <Button Text="Ecommerce"/>
-        <Button Text="Home Pages"/>
-        <Button Text="Manutenção"/>
+        <Button Clicked="Button_Clicked" Text="Landin-Pages"/>
+        <Button Clicked="Button_Clicked" Text="Site Empresarial"/>
+        <Button Clicked="Button_Clicked" Text="Ecommerce"/>
+        <Button Clicked="Button_Clicked" Text="Home Pages"/>
+        <Button Clicked="Button_Clicked" Text="Manutenção"/>
         
     </VerticalStackLayout>
 </ContentPage>

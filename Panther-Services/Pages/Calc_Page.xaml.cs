@@ -9,6 +9,8 @@ public partial class Calc_Page : ContentPage
 
     private void Button_Clicked(object sender, EventArgs e)
 	{
-		lb_res.Text = Entry_valor_horas.Text.ToString();
+		int vr = int.Parse(Entry_valor_horas.Text) * 50;
+		lb_res.Text = vr.ToString();
+
     }
 }
