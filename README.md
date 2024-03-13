@@ -1,6 +1,5 @@
 # Pamther Services
 <br>
-<br>
 
 ## Alerta
 <p>Esse Projeto Esta Em Produção</p>
